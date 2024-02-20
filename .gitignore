@@ -1,0 +1,7 @@
+# Development scripts and data
+/vm-enter.sh
+/vm-push.sh
+/data
+
+# Credentials
+.env
